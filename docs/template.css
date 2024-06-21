@@ -7,13 +7,13 @@ body {
 
 /* Styling the Navbar*/
 #mainNavbar {
-    font-size: 1.5rem;
+    font-size: 0.9rem;
     font-weight: 100;
 }
 
 #mainNavbar .nav-link {
     color: #000000;
-    font-size: 1.3rem;
+    font-size: 0.9rem;
     font-family: "Nunito", sans-serif;
     text-align: center;
     padding: 10px 15px;
@@ -25,14 +25,14 @@ body {
 
 #mainNavbar .nav-link:hover {
     /* color: ; */
-    font-size: 22px;
+    font-size: 15px;
     font-weight: bold;
 
 }
 
 #mainNavbar .navbar-brand {
     color: #373A36;
-    font-size: 1.5rem;
+    font-size: 0.9rem;
 }
 
 .navbar.scrolled {
